@@ -50,6 +50,8 @@ header nav ul li:hover a {
 /* banner start */
 .banner {
   padding-bottom: 150px;
+  border-bottom: 3px solid;
+  border-radius: 100px;
 }
 .banner-contents {
   display: flex;
@@ -100,6 +102,9 @@ header nav ul li:hover a {
 /* about us start */
 .about {
   padding-bottom: 150px;
+  border-bottom: 3px solid;
+  border-top: 3px solid;
+  border-radius: 100px;
 }
 .section-header {
   margin: 90px 0;
@@ -163,6 +168,9 @@ header nav ul li:hover a {
 /* pillers of islam start */
 .pilers-of-us {
   padding-bottom: 150px;
+  border-bottom: 3px solid;
+  border-top: 3px solid;
+  border-radius: 100px;
 }
 .pillers {
   display: flex;
@@ -187,6 +195,9 @@ header nav ul li:hover a {
 /* prayer time start */
 .section-prayer-time {
   padding-bottom: 150px;
+  border-bottom: 3px solid;
+  border-top: 3px solid;
+  border-radius: 100px;
 }
 .container .prayer-text {
   width: 42%;
